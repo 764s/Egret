@@ -1,0 +1,4 @@
+class BaseWindow {
+	public constructor() {
+	}
+}

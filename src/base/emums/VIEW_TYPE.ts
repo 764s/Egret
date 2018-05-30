@@ -1,0 +1,6 @@
+enum VIEW_TYPE
+{
+	SCENE,
+	WINDOW,
+	WIDGET
+}

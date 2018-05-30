@@ -1,0 +1,5 @@
+enum VIEW_ID
+{
+	SCENE,
+	SCENE_TEST_UI
+}

@@ -1,0 +1,4 @@
+class BaseScene {
+	public constructor() {
+	}
+}
